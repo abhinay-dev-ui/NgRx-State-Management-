@@ -6,7 +6,7 @@ This project demonstrates core concepts of **NgRx** in Angular for state managem
 
 https://ngrx.io/docs
 
-https://ngrx.io/generated/images/guide/store/state-management-lifecycle.png
+![image](https://github.com/user-attachments/assets/3490a6a3-efe1-4169-ab65-aa63c0a65cc8)
 
 ## 🚀 Technologies
 
